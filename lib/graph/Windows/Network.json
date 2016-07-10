@@ -9,8 +9,9 @@
       "graph_title": "Windows - <node> - Network Recieve Bytes/sec",
       "graph_type": "multi",
       "legend_max": 5,
-      "chart_style": "line1",
+      "chart_style": "stack",
       "graph_items": ["BytesRecivedSec"],
+      "total_data_source": "Total All Data Sources",
       "vertical_label": "Byte/sec",
       "datasource_title": "Windows - <node> - Recieve Bytes/sec"
     },
@@ -20,8 +21,9 @@
       "graph_title": "Windows - <node> - Network Sent Bytes/sec",
       "graph_type": "multi",
       "legend_max": 5,
-      "chart_style": "line1",
+      "chart_style": "stack",
       "graph_items": ["BytesSentSec"],
+      "total_data_source": "Total All Data Sources",
       "vertical_label": "Byte/sec",
       "datasource_title": "Windows - <node> - Sent Bytes/sec"
     },

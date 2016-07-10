@@ -12,6 +12,7 @@
       "chart_style": "stack",
       "vertical_label": "Byte",
       "graph_borderline": "<MemTotal>",
+      "total_data_source": "Total All Data Sources",
       "graph_comment": "Memory : <MemTotal>, Swap : <SwapTotal>",
       "datasource_title": "Windows - <node> - Memory Usage"
     }

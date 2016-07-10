@@ -11,7 +11,6 @@
       "legend_max": 15,
       "chart_style": "line2",
       "graph_items": ["PercentFree"],
-      "graph_item_texts": ["free"],
       "vertical_label": "Disk util %",
       "upper_limit": 100,
       "unit_exponent_value": 1,
